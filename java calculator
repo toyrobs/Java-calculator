@@ -1,10 +1,10 @@
-
+import  java.util.scanner;
 public class student
 {
-	public static void main(string args[]){
-	Scanner tina = new Scanner(Sustem.in);
-	doudble num1,num2,answer;
-	System.out.println("Enter first number:");
+public static void main(string args[]){
+Scanner tina = new Scanner(Sustem.in);
+doudble num1,num2,answer;
+System.out.println("Enter first number:");
     num1=tina.nexDouble();
     System.out.println("enter the second number:");
     num2 = tina.nextDouble();
